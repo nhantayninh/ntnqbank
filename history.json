@@ -2,22 +2,14 @@
     "versions": [
         {
             "version": "1.0.0",
-            "release_date": "2024-03-20",
+            "release_date": "2025-05-09",
             "changes": [
                 "Phát hành phiên bản đầu tiên",
-                "Tính năng tạo key đăng ký",
-                "Quản lý danh sách người dùng",
-                "Xuất báo cáo CSV"
-            ]
-        },
-        {
-            "version": "1.0.1",
-            "release_date": "2024-03-21",
-            "changes": [
-                "Sửa lỗi cập nhật dữ liệu",
-                "Cải thiện giao diện người dùng",
-                "Thêm tính năng tự động cập nhật"
+                "Tính năng quản lý ngân hàng câu hỏi",
+                "Tính năng tạo ma trận với dữ liệu câu hỏi ngẫu nhiên",
+                "Xuất đề gốc ra file Word dùng cho phần mềm NTN Mix Test"
             ]
         }
+        
     ]
 } 
